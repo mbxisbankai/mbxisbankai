@@ -1,5 +1,9 @@
 # Hi 👋! My name is Roy and I'm a web developer
 
+<div align="center">
+   <img src="https://nirzak-streak-stats.vercel.app/?user=mbxisbankai&theme=gotham&hide_border=true" alt="Streak Stats" />
+</div>
+
 Currently a student at Moringa School
 
 # 💻Tech Stack
@@ -48,7 +52,4 @@ Currently a student at Moringa School
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbxisbankai&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-<div align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=mbxisbankai&theme=gotham&hide_border=true" alt="Streak Stats" />
-</div>
 
