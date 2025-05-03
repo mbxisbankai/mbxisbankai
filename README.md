@@ -23,7 +23,7 @@ Currently a student at Moringa School
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
 </div>
 
-###
+# Socials 
 
 <div align="left">
   <a href="https://instagram.com/roy.mbui" target="_blank">
