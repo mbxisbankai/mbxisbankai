@@ -42,3 +42,9 @@ Currently a student at Moringa School
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/mbxisbankai/mbxisbankai/blob/output/github-snake.svg"/>
     <img alt="github-snake" src="https://github.com/mbxisbankai/mbxisbankai/blob/output/github-snake.svg">
 </picture>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mbxisbankai&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mbxisbankai&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbxisbankai&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
