@@ -44,11 +44,11 @@ Currently a student at Moringa School
 </picture>
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbxisbankai&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbxisbankai&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mbxisbankai&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbxisbankai&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=mbxisbankai&theme=gotham&hide_border=true" alt="Streak Stats" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=mbxisbankai&theme=great-gatsby&hide_border=true" alt="Streak Stats" />
 </div>
 
