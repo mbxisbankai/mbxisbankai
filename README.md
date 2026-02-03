@@ -4,7 +4,7 @@
    <img src="https://nirzak-streak-stats.vercel.app/?user=mbxisbankai&theme=gotham&hide_border=true" alt="Streak Stats" />
 </div>
 
-Currently a student at Moringa School
+Currently a student at USIU Africa
 
 # 💻Tech Stack
 <div align="left">
